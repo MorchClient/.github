@@ -1,5 +1,5 @@
 <h1 align=center>Morch Client</h1>
-<p align=center><img src="https://github.com/MorchClient/images/blob/main/minecraftDot.png?raw=true" width=128></p>
+<p align=center><img src="https://raw.githubusercontent.com/MorchClient/resources/images/minecraftDot.png" width=128></p>
 <h2 align=center>Welcome to Morch Client!</h2>
 <p>Discover a new way to customize your Minecraft experience with Morch, a script loader that brings modding-like capabilities directly into the game.</p>
 <p>As one of the pioneers in in-game scripting, Morch allows you to modify the core game mechanics seamlessly
